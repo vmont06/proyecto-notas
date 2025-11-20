@@ -1,5 +1,5 @@
 Tema 1: Presentación del módulo
-Tema 2: Herramientas básicas de trabajo
+Tema 2: Herramientas básicas de trabajo - versión desde edicion-main
 Tema 3: Control de versiones
 Tema 4: Introducción a Git
 Tema 5: Repositorios remotos
