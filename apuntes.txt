@@ -2,3 +2,5 @@ Tema 1: Presentación del módulo
 Tema 2: Herramientas básicas de trabajo
 Tema 3: Control de versiones
 Tema 4: Introducción a Git
+Tema 5: Repositorios remotos
+Tema 6: Ramas en Git
