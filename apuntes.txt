@@ -5,3 +5,4 @@ Tema 3: Control de versiones
 Tema 4: Introducción a Git
 Tema 5: Repositorios remotos
 Tema 6: Ramas en Git
+Tema 7: Repositorios remotos y GitHub
